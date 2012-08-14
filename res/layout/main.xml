@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:background="#eaefee"
+                android:padding="10dip"
+        >
+
+    <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Le Juste Prix"
+            android:layout_centerHorizontal="true"
+            android:textSize="30sp"
+            android:textColor="@android:color/black"
+            />
+
+    <Button
+          android:layout_width="wrap_content" android:layout_height="wrap_content"
+          android:text="Scores"
+          android:id="@+id/button_scores"
+          android:layout_alignParentBottom="true"
+          android:textSize="25sp"
+          android:padding="1dip"
+          android:background="@null"></Button>
+
+    <Button
+          android:layout_width="wrap_content" android:layout_height="wrap_content"
+          android:text="Info"
+          android:id="@+id/button_info"
+          android:layout_alignParentBottom="true"
+          android:layout_alignParentRight="true"
+          android:textSize="25sp"
+          android:padding="1dip"
+          android:background="@null"></Button>
+
+        />
+
+
+
+
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                    android:layout_width="wrap_content" android:layout_height="wrap_content"
+                    android:id="@+id/linear2"
+                    android:background="@drawable/custom_shape"
+                    android:layout_centerHorizontal="true"
+                    android:layout_centerVertical="true"
+                    android:paddingLeft="70dip" android:paddingRight="70dip"
+                    android:paddingTop="70dip" android:paddingBottom="70dip"
+                    android:orientation="vertical"
+            >
+
+        <Button android:text="   Solitaire   "
+                android:textSize="15sp"
+                android:id="@+id/button_solitaire"
+                android:background="@drawable/button_blue"
+                android:layout_width="wrap_content" android:layout_height="wrap_content"
+                android:padding="20dip"
+                android:textColor="@android:color/white"
+                android:layout_centerHorizontal="true"
+                ></Button>
+
+        <Button
+                android:layout_width="wrap_content" android:layout_height="wrap_content"
+                android:id="@+id/button_multiplayer"
+                android:text="Multijoueur"
+                android:layout_centerHorizontal="true"
+                android:layout_below="@id/button_solitaire"
+                android:background="@drawable/button_red"
+                android:layout_marginTop="5dip"
+                android:padding="20dip"
+                android:textColor="@android:color/white"
+                android:textSize="15sp"
+                ></Button>
+
+    </RelativeLayout>
+</RelativeLayout>

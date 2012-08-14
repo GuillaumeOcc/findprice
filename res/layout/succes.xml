@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:background="#eaefee"
+                android:padding="10dip"
+        >
+
+    <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Félicitation"
+            android:layout_centerHorizontal="true"
+            android:textSize="30sp"
+            android:textColor="@android:color/black"
+            />
+
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                    android:layout_width="wrap_content" android:layout_height="wrap_content"
+                    android:id="@+id/linear2"
+                    android:background="@drawable/custom_shape"
+                    android:layout_centerHorizontal="true"
+                    android:layout_centerVertical="true"
+                    android:paddingLeft="70dip" android:paddingRight="70dip"
+                    android:paddingTop="70dip" android:paddingBottom="70dip"
+                    android:orientation="vertical"
+            >
+
+        <TextView
+                android:id="@+id/demande"
+                android:layout_width="wrap_content" android:layout_height="wrap_content"
+                android:text="Voulez vous enregistrer votre score ?"
+                android:paddingBottom="10dip"
+                android:layout_alignParentTop="true"
+                />
+
+        <Button android:text="Oui"
+                android:textSize="15sp"
+                android:id="@+id/button_oui"
+                android:background="@drawable/button_blue"
+                android:layout_width="wrap_content" android:layout_height="wrap_content"
+                android:paddingRight="40dip" android:paddingLeft="40dip"
+                android:paddingTop="20dip" android:paddingBottom="20dip"
+                android:layout_below="@id/demande"
+                android:textColor="@android:color/white"
+                android:layout_centerHorizontal="true"
+                ></Button>
+
+        <Button
+                android:layout_width="wrap_content" android:layout_height="wrap_content"
+                android:id="@+id/button_non"
+                android:text="Non"
+                android:layout_centerHorizontal="true"
+                android:layout_below="@id/button_oui"
+                android:background="@drawable/button_red"
+                android:layout_marginTop="5dip"
+                android:paddingRight="38dip" android:paddingLeft="38dip"
+                android:paddingTop="20dip" android:paddingBottom="20dip"
+                android:textColor="@android:color/white"
+                android:textSize="15sp"
+                ></Button>
+
+    </RelativeLayout>
+</RelativeLayout>

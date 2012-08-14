@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:background="#eaefee"
+                android:padding="10dip">
+
+    <TextView
+
+            android:text="Categorie"
+            android:textSize="30sp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_alignParentTop="true"
+            android:paddingTop="5dip"
+            android:textColor="@android:color/black"
+
+            />
+
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                    android:layout_width="fill_parent" android:layout_height="wrap_content"
+                    android:id="@+id/relative"
+                    android:layout_centerVertical="true"
+                    android:layout_centerHorizontal="true"
+                    android:background="@drawable/custom_shape"
+                    android:paddingLeft="30dip" android:paddingRight="30dip"
+                    android:paddingTop="50dip" android:paddingBottom="50dip"
+            >
+
+
+        <TextView
+                android:id="@+id/choose_category"
+                android:text="Veuillez choisir une catégorie :"
+                android:layout_width="wrap_content" android:layout_height="wrap_content"
+                android:layout_alignParentTop="true"
+                android:paddingBottom="10dip"
+
+                />
+
+
+        <ImageButton
+                android:id="@+id/button_clothes_shoes"
+                android:text="Vetements et Chaussures"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:src="@drawable/clothslogo"
+                android:layout_below="@id/choose_category"
+                />
+
+        <ImageButton
+                android:id="@+id/button_books"
+                android:text="Livres"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/choose_category"
+                android:layout_alignParentRight="true"
+                android:src="@drawable/bookslogo"
+                />
+
+        <ImageButton
+                android:id="@+id/button_music_dvd_bluray"
+                android:text="Musique, DVD et Blu-ray"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/choose_category"
+                android:layout_centerHorizontal="true"
+                android:src="@drawable/musiclogo"
+                />
+
+        <ImageButton
+                android:id="@+id/button_computer_office"
+                android:text="Informatique et Bureau"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_below="@id/button_clothes_shoes"
+                android:src="@drawable/computerlogo"
+                />
+
+        <ImageButton
+                android:id="@+id/button_videogames_consoles"
+                android:text="Jeux Vidéo et Consoles"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/button_computer_office"
+                android:layout_alignParentLeft="true"
+                android:src="@drawable/videogameslogo"
+                />
+
+        <ImageButton
+                android:id="@+id/button_kitchen_house"
+                android:text="Cuisine et Maison"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/button_music_dvd_bluray"
+                android:layout_centerHorizontal="true"
+                android:src="@drawable/houselogo"
+                />
+
+        <ImageButton
+                android:id="@+id/button_beauty_hygiene_health"
+                android:text="Beauté Hygiène et Santé"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/button_videogames_consoles"
+                android:src="@drawable/healthlogo"
+                />
+
+        <ImageButton
+                android:id="@+id/button_watchs_jewelry"
+                android:text="Montres et Bijoux"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/button_kitchen_house"
+                android:layout_centerHorizontal="true"
+                android:src="@drawable/watchlogo"
+                />
+
+        <ImageButton
+                android:id="@+id/button_sports_leisure"
+                android:text="Sports et Loisirs"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/button_watchs_jewelry"
+                android:layout_centerHorizontal="true"
+                android:src="@drawable/sporslogo"
+                />
+
+        <ImageButton
+                android:id="@+id/button_crafts"
+                android:text="Bricolage"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/button_books"
+                android:layout_alignParentRight="true"
+                android:src="@drawable/craftslogo"
+                />
+
+        <ImageButton
+                android:id="@+id/button_hightech"
+                android:text="High-Tech"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/button_crafts"
+                android:layout_alignParentRight="true"
+                android:src="@drawable/hightechlogo"
+                />
+
+        <ImageButton
+                android:id="@+id/button_toys_kids_babies"
+                android:text="Jouets, Enfants et Bébés"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/button_hightech"
+                android:layout_alignParentRight="true"
+                android:src="@drawable/toyslogo"
+                />
+
+    </RelativeLayout>
+</RelativeLayout>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:background="#eaefee"
+                android:padding="10dip"
+        >
+
+    <TextView
+            android:id="@+id/score"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Score"
+            android:layout_centerHorizontal="true"
+            android:textSize="30sp"
+            android:textColor="@android:color/black"
+            />
+
+    <Button
+            android:id="@+id/button_highscore_solitaire"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Solitaire"
+        />
+
+    <Button
+        android:id="@+id/button_highscore_multijoueur"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Multijoueur"
+        />
+
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                    android:layout_width="fill_parent" android:layout_height="wrap_content"
+                    android:id="@+id/relative_game"
+                    android:layout_marginTop="90dip"
+                    android:layout_centerHorizontal="true"
+            >
+
+
+        <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                        android:layout_width="wrap_content" android:layout_height="wrap_content"
+                        android:id="@+id/linear2"
+                        android:background="@drawable/custom_shape"
+                        android:layout_centerHorizontal="true"
+                        android:layout_centerVertical="true"
+                        android:layout_marginTop="200dip"
+                        android:paddingLeft="70dip" android:paddingRight="70dip"
+                        android:orientation="vertical"
+                >
+
+            <ListView
+                    android:id="@+id/list_score"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerHorizontal="true"
+                    />
+
+            <ListView
+                    android:id="@+id/list_score_multi"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerHorizontal="true"
+                    />
+
+        </RelativeLayout>
+    </RelativeLayout>
+</RelativeLayout>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:background="@drawable/informations">
+
+    <ImageView
+            android:id="@+id/siusoon_web"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/siusoon"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"
+            android:paddingBottom="10dip"
+            />
+
+    <ImageButton
+            android:id="@+id/button_logo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/siu"
+            android:layout_centerHorizontal="true"
+            android:layout_above="@id/siusoon_web"
+            android:paddingBottom="5dip"
+            android:background="@null"></ImageButton>
+</RelativeLayout>
