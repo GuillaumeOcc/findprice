@@ -8,7 +8,7 @@
 
     <TextView
 
-            android:text="Categorie"
+            android:text="@string/category_title"
             android:textSize="30sp"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
@@ -32,7 +32,7 @@
 
         <TextView
                 android:id="@+id/choose_category"
-                android:text="Veuillez choisir une catégorie :"
+                android:text="@string/choose_category"
                 android:layout_width="wrap_content" android:layout_height="wrap_content"
                 android:layout_alignParentTop="true"
                 android:paddingBottom="10dip"

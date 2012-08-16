@@ -10,7 +10,7 @@
     <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Félicitation"
+            android:text="@string/congratulation_title"
             android:layout_centerHorizontal="true"
             android:textSize="30sp"
             android:textColor="@android:color/black"
@@ -40,13 +40,13 @@
         <TextView
                 android:id="@+id/demande"
                 android:layout_width="wrap_content" android:layout_height="wrap_content"
-                android:text="Voulez vous enregistrer votre score ?"
+                android:text="@string/demande"
                 android:layout_below="@id/text_winner"
                 android:paddingTop="10dip"
                 android:paddingBottom="10dip"
                 />
 
-        <Button android:text="Oui"
+        <Button android:text="@string/button_yes"
                 android:textSize="15sp"
                 android:id="@+id/button_oui"
                 android:background="@drawable/button_blue"
@@ -61,7 +61,7 @@
         <Button
                 android:layout_width="wrap_content" android:layout_height="wrap_content"
                 android:id="@+id/button_non"
-                android:text="Non"
+                android:text="@string/button_no"
                 android:layout_centerHorizontal="true"
                 android:layout_below="@id/button_oui"
                 android:background="@drawable/button_red"

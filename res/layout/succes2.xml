@@ -10,7 +10,7 @@
     <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Félicitation"
+            android:text="@string/congratulation_title"
             android:layout_centerHorizontal="true"
             android:textSize="30sp"
             android:textColor="@android:color/black"
@@ -37,7 +37,7 @@
 
         <EditText
                 android:id="@+id/enter_name"
-                android:hint="Entrez votre nom   "
+                android:hint="@string/enter_name"
                 android:singleLine="true"
                 android:layout_below="@id/voulez_vous_rejouer"
                 android:inputType="textPersonName"
@@ -50,7 +50,7 @@
         <Button
                 android:layout_width="wrap_content" android:layout_height="wrap_content"
                 android:id="@+id/button_save_score"
-                android:text="Valider"
+                android:text="@string/validate"
                 android:layout_centerHorizontal="true"
                 android:layout_below="@id/enter_name"
                 android:background="@drawable/button_blue"

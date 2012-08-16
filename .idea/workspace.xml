@@ -73,107 +73,74 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="ScoreAdapterMulti.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/siu/adapter/ScoreAdapterMulti.java">
+      <file leaf-file-name="main.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/res/layout/main.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="31" selection-start="237" selection-end="237" vertical-scroll-proportion="0.0">
+            <state line="66" column="56" selection-start="2691" selection-end="2691" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Highscore.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/siu/bonus/Highscore.java">
+      <file leaf-file-name="strings.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/res/values/strings.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="63" column="16" selection-start="1953" selection-end="1953" vertical-scroll-proportion="0.33066666">
-              <folding>
-                <element signature="e#927#934#0" expanded="true" />
-                <element signature="e#1033#1045#0" expanded="true" />
-                <element signature="e#1841#2155#0" expanded="true" />
-                <element signature="e#2144#2145#0" expanded="true" />
-                <element signature="e#2215#2534#0" expanded="true" />
-                <element signature="e#2523#2524#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ScoreMulti.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/siu/model/ScoreMulti.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="39" column="0" selection-start="676" selection-end="676" vertical-scroll-proportion="0.0">
+            <state line="10" column="36" selection-start="449" selection-end="449" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Score.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/siu/model/Score.java">
+      <file leaf-file-name="succes3.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/res/layout/succes3.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="13" selection-start="188" selection-end="188" vertical-scroll-proportion="0.0">
+            <state line="49" column="42" selection-start="2165" selection-end="2165" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="list_score_row_multi.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/res/layout/list_score_row_multi.xml">
+      <file leaf-file-name="succes_multi.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/res/layout/succes_multi.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="20" column="37" selection-start="802" selection-end="802" vertical-scroll-proportion="0.0">
+            <state line="63" column="48" selection-start="2829" selection-end="2829" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="list_score_row.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/res/layout/list_score_row.xml">
+      <file leaf-file-name="succes_multi2.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/res/layout/succes_multi2.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="48" selection-start="421" selection-end="421" vertical-scroll-proportion="0.0">
+            <state line="75" column="46" selection-start="3207" selection-end="3207" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="info.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/res/layout/info.xml">
+      <file leaf-file-name="succes_multi3.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/res/layout/succes_multi3.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+            <state line="48" column="49" selection-start="2121" selection-end="2121" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="highscore.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/res/layout/highscore.xml">
+      <file leaf-file-name="strings-en.xml" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/res/values/strings-en.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="62" column="47" selection-start="2501" selection-end="2501" vertical-scroll-proportion="0.0">
+            <state line="38" column="0" selection-start="1687" selection-end="1687" vertical-scroll-proportion="0.8297162">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SuccesMulti3Activity.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/siu/multiplayer/SuccesMulti3Activity.java">
+      <file leaf-file-name="difficulty.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/res/layout/difficulty.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="68" column="74" selection-start="1597" selection-end="2227" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="e#822#834#0" expanded="true" />
-                <element signature="e#2504#2829#0" expanded="true" />
-                <element signature="e#2818#2819#0" expanded="true" />
-                <element signature="e#2877#3191#0" expanded="true" />
-                <element signature="e#3180#3181#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Succes3.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/siu/activity/Succes3.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="78" column="9" selection-start="2517" selection-end="2517" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="e#784#791#0" expanded="true" />
-              </folding>
+            <state line="70" column="49" selection-start="3046" selection-end="3046" vertical-scroll-proportion="0.0">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -188,28 +155,28 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/com/siu/multiplayer/SuccesMultiActivity.java" />
+        <option value="$PROJECT_DIR$/src/com/siu/bonus/Highscore.java" />
+        <option value="$PROJECT_DIR$/res/values/strings.en.xml" />
+        <option value="$PROJECT_DIR$/res/layout/categories.xml" />
+        <option value="$PROJECT_DIR$/res/layout/difficulty.xml" />
+        <option value="$PROJECT_DIR$/res/layout/echec.xml" />
+        <option value="$PROJECT_DIR$/res/layout/game.xml" />
+        <option value="$PROJECT_DIR$/res/layout/highscore.xml" />
+        <option value="$PROJECT_DIR$/res/layout/main.xml" />
+        <option value="$PROJECT_DIR$/res/layout/succes.xml" />
+        <option value="$PROJECT_DIR$/res/layout/succes2.xml" />
+        <option value="$PROJECT_DIR$/res/layout/succes3.xml" />
+        <option value="$PROJECT_DIR$/res/layout/succes_multi.xml" />
         <option value="$PROJECT_DIR$/res/layout/succes_multi2.xml" />
         <option value="$PROJECT_DIR$/res/layout/succes_multi3.xml" />
-        <option value="$PROJECT_DIR$/res/layout/list_score_row.xml" />
-        <option value="$PROJECT_DIR$/src/com/siu/solitaire/SoloGameContext.java" />
-        <option value="$PROJECT_DIR$/src/com/siu/activity/Game.java" />
-        <option value="$PROJECT_DIR$/src/com/siu/model/Product.java" />
-        <option value="$PROJECT_DIR$/src/com/siu/adapter/ScoreAdapter.java" />
-        <option value="$PROJECT_DIR$/res/layout/list_score_row_multi.xml" />
-        <option value="$PROJECT_DIR$/src/com/siu/Global/DatabaseHelper.java" />
-        <option value="$PROJECT_DIR$/src/com/siu/multiplayer/SuccesMulti2Activity.java" />
-        <option value="$PROJECT_DIR$/src/com/siu/adapter/ScoreAdapterMulti.java" />
-        <option value="$PROJECT_DIR$/res/layout/highscore.xml" />
-        <option value="$PROJECT_DIR$/src/com/siu/multiplayer/SuccesMulti3Activity.java" />
-        <option value="$PROJECT_DIR$/src/com/siu/model/ScoreMulti.java" />
-        <option value="$PROJECT_DIR$/src/com/siu/bonus/Highscore.java" />
+        <option value="$PROJECT_DIR$/res/values/strings.xml" />
+        <option value="$PROJECT_DIR$/res/values/strings-en.xml" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-1374" />
-    <option name="y" value="162" />
+    <option name="y" value="-8" />
     <option name="width" value="1382" />
     <option name="height" value="784" />
   </component>
@@ -239,16 +206,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope">
-        <subPane subId="Project Files">
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Root">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -434,6 +391,10 @@
               <option name="myItemId" value="res" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="values" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -453,6 +414,20 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="findprice" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="findprice" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="PackagesPane">
@@ -469,14 +444,24 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="GoToFile.includeJavaFiles" value="false" />
-    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
     <property name="OverrideImplement.combined" value="true" />
-    <property name="recentsLimit" value="5" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
     <property name="MemberChooser.sorted" value="false" />
+    <property name="recentsLimit" value="5" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
     <property name="MemberChooser.copyJavadoc" value="false" />
@@ -667,26 +652,26 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1374" y="162" width="1382" height="784" extended-state="6" />
-    <editor active="false" />
+    <frame x="-1374" y="-8" width="1382" height="784" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2663126" sideWeight="0.67147434" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32852563" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32876712" sideWeight="0.4973939" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32852563" sideWeight="0.4973939" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32852563" sideWeight="0.4973939" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2663126" sideWeight="0.67147434" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32876712" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.278481" sideWeight="0.6730769" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32876712" sideWeight="0.4973939" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32692307" sideWeight="0.4973939" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32852563" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32852563" sideWeight="0.4973939" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Android Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32876712" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
@@ -727,7 +712,7 @@
     <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
     <option name="CREATE_PATCH_EXPAND_DETAILS_DEFAULT" value="true" />
     <option name="SHOW_FILE_HISTORY_DETAILS" value="true" />
-    <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
+    <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
     <option name="LAST_COMMIT_MESSAGE" />
@@ -748,47 +733,16 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/siu/model/Product.java">
+    <entry file="file://$PROJECT_DIR$/res/layout/echec.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="38" selection-start="271" selection-end="271" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/siu/multiplayer/SuccesMulti2Activity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="49" column="38" selection-start="1681" selection-end="1681" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="e#1097#1746#0" expanded="true" />
-            <element signature="e#1735#1736#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/siu/activity/Succes2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="54" column="36" selection-start="1781" selection-end="1781" vertical-scroll-proportion="0.0">
+        <state line="52" column="50" selection-start="2296" selection-end="2296" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/siu/Global/DatabaseHelper.java">
+    <entry file="file://$PROJECT_DIR$/res/layout/game.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="19" selection-start="944" selection-end="944" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/siu/adapter/ScoreAdapter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="53" column="44" selection-start="1575" selection-end="1575" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/siu/bonus/Info.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="13" selection-start="378" selection-end="378" vertical-scroll-proportion="0.0">
+        <state line="43" column="42" selection-start="1615" selection-end="1615" vertical-scroll-proportion="-4.5409555">
           <folding />
         </state>
       </provider>
@@ -800,13 +754,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/res/layout/info.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/res/layout/list_score_row_multi.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state line="20" column="37" selection-start="802" selection-end="802" vertical-scroll-proportion="0.0">
@@ -814,67 +761,85 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/siu/adapter/ScoreAdapterMulti.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="31" selection-start="237" selection-end="237" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/res/layout/highscore.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="62" column="47" selection-start="2501" selection-end="2501" vertical-scroll-proportion="0.0">
+        <state line="49" column="40" selection-start="2011" selection-end="2011" vertical-scroll-proportion="0.18727915">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/siu/activity/Succes3.java">
+    <entry file="file://$PROJECT_DIR$/res/layout/info.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="78" column="9" selection-start="2517" selection-end="2517" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="e#784#791#0" expanded="true" />
-          </folding>
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/siu/multiplayer/SuccesMulti3Activity.java">
+    <entry file="file://$PROJECT_DIR$/res/layout/succes.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="68" column="74" selection-start="1597" selection-end="2227" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="e#822#834#0" expanded="true" />
-            <element signature="e#2504#2829#0" expanded="true" />
-            <element signature="e#2818#2819#0" expanded="true" />
-            <element signature="e#2877#3191#0" expanded="true" />
-            <element signature="e#3180#3181#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/siu/model/Score.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="13" selection-start="188" selection-end="188" vertical-scroll-proportion="0.0">
+        <state line="44" column="50" selection-start="2049" selection-end="2049" vertical-scroll-proportion="0.24573378">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/siu/model/ScoreMulti.java">
+    <entry file="file://$PROJECT_DIR$/res/layout/succes2.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="39" column="0" selection-start="676" selection-end="676" vertical-scroll-proportion="0.0">
+        <state line="56" column="34" selection-start="2476" selection-end="2476" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/siu/bonus/Highscore.java">
+    <entry file="file://$PROJECT_DIR$/res/layout/main.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="63" column="16" selection-start="1953" selection-end="1953" vertical-scroll-proportion="0.33066666">
-          <folding>
-            <element signature="e#927#934#0" expanded="true" />
-            <element signature="e#1033#1045#0" expanded="true" />
-            <element signature="e#1841#2155#0" expanded="true" />
-            <element signature="e#2144#2145#0" expanded="true" />
-            <element signature="e#2215#2534#0" expanded="true" />
-            <element signature="e#2523#2524#0" expanded="true" />
-          </folding>
+        <state line="66" column="56" selection-start="2691" selection-end="2691" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/succes3.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="49" column="42" selection-start="2165" selection-end="2165" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/succes_multi.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="63" column="48" selection-start="2829" selection-end="2829" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/succes_multi2.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="75" column="46" selection-start="3207" selection-end="3207" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/succes_multi3.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="48" column="49" selection-start="2121" selection-end="2121" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/difficulty.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="70" column="49" selection-start="3046" selection-end="3046" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/values/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="36" selection-start="449" selection-end="449" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/values/strings-en.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="38" column="0" selection-start="1687" selection-end="1687" vertical-scroll-proportion="0.8297162">
+          <folding />
         </state>
       </provider>
     </entry>

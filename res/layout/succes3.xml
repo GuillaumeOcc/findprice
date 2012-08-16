@@ -11,7 +11,7 @@
             android:id="@+id/score"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Score"
+            android:text="@string/button_scores"
             android:layout_centerHorizontal="true"
             android:textSize="30sp"
             android:textColor="@android:color/black"
@@ -32,7 +32,7 @@
                 android:layout_marginTop="90dip"
                 />
 
-        <Button android:text="Rejouer"
+        <Button android:text="@string/button_regame"
                 android:textSize="15sp"
                 android:id="@+id/bouton_rejouer"
                 android:layout_toLeftOf="@id/textsuccesvide"
@@ -46,7 +46,7 @@
         <Button
                 android:layout_width="wrap_content" android:layout_height="wrap_content"
                 android:id="@+id/bouton_menu_principal"
-                android:text="Menu Principal"
+                android:text="@string/button_main"
                 android:layout_toRightOf="@id/textsuccesvide"
                 android:background="@drawable/button_red"
                 android:textColor="@android:color/white"

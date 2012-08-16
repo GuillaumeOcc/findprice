@@ -10,7 +10,7 @@
     <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Le Juste Prix"
+            android:text="@string/main_title"
             android:layout_centerHorizontal="true"
             android:textSize="30sp"
             android:textColor="@android:color/black"
@@ -18,7 +18,7 @@
 
     <Button
           android:layout_width="wrap_content" android:layout_height="wrap_content"
-          android:text="Scores"
+          android:text="@string/button_scores"
           android:id="@+id/button_scores"
           android:layout_alignParentBottom="true"
           android:textSize="25sp"
@@ -27,7 +27,7 @@
 
     <Button
           android:layout_width="wrap_content" android:layout_height="wrap_content"
-          android:text="Info"
+          android:text="@string/button_info"
           android:id="@+id/button_info"
           android:layout_alignParentBottom="true"
           android:layout_alignParentRight="true"
@@ -51,7 +51,7 @@
                     android:orientation="vertical"
             >
 
-        <Button android:text="   Solitaire   "
+        <Button android:text="@string/button_solitary"
                 android:textSize="15sp"
                 android:id="@+id/button_solitaire"
                 android:background="@drawable/button_blue"
@@ -64,7 +64,7 @@
         <Button
                 android:layout_width="wrap_content" android:layout_height="wrap_content"
                 android:id="@+id/button_multiplayer"
-                android:text="Multijoueur"
+                android:text="@string/button_multiplayer"
                 android:layout_centerHorizontal="true"
                 android:layout_below="@id/button_solitaire"
                 android:background="@drawable/button_red"

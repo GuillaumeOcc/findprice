@@ -10,7 +10,7 @@
     <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Difficulté"
+            android:text="@string/difficulty_title"
             android:layout_centerHorizontal="true"
             android:textSize="30sp"
             android:textColor="@android:color/black"
@@ -34,14 +34,14 @@
         <TextView
                 android:layout_width="fill_parent"
                 android:layout_height="wrap_content"
-                android:text="Veuillez choisir le niveau de difficulté"
+                android:text="@string/choose_difficulty"
                 android:layout_centerHorizontal="true"
                 android:textColor="@android:color/black"
                 android:paddingBottom="60dip"
                 android:gravity="center"
                 />
 
-        <Button android:text="Facile"
+        <Button android:text="@string/button_easy"
                 android:id="@+id/button_easy"
                 android:layout_width="wrap_content" android:layout_height="wrap_content"
                 android:textColor="@android:color/white"
@@ -54,7 +54,7 @@
         <Button
                 android:layout_width="wrap_content" android:layout_height="wrap_content"
                 android:id="@+id/button_normal"
-                android:text="Normal"
+                android:text="@string/button_medium"
                 android:layout_centerHorizontal="true"
                 android:background="@drawable/button_blue"
                 android:layout_marginTop="5dip"
@@ -68,7 +68,7 @@
         <Button
                 android:layout_width="wrap_content" android:layout_height="wrap_content"
                 android:id="@+id/button_hard"
-                android:text="Difficile"
+                android:text="@string/button_hard"
                 android:layout_centerHorizontal="true"
                 android:background="@drawable/button_red"
                 android:paddingLeft="15dip"

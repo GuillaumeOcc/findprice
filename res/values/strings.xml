@@ -1,6 +1,46 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">findprice</string>
+    <string name="app_name">Juste prix</string>
+
+    <string name="category_title">Catégories</string>
+    <string name="choose_category">Choisissez la catégorie</string>
+
+    <string name="difficulty_title">Difficulté</string>
+    <string name="choose_difficulty">Veuillez choisir le niveau de difficulté</string>
+    <string name="button_easy">Facile</string>
+    <string name="button_medium">Normal</string>
+    <string name="button_hard">Difficile</string>
+
+    <string name="failure_title">Echec</string>
+    <string name="try_again">Voulez vous rejouer ?</string>
+    <string name="button_regame">Rejouer</string>
+    <string name="button_main">Menu Principal</string>
+    <string name="guess_title">Devinez le prix</string>
+    <string name="player_one">Joueur 1</string>
+    <string name="player_two">Joueur 2</string>
+    <string name="counter">Coups : 0</string>
+    <string name="choose_category">Choisissez la catégorie</string>
+
+    <string name="highscore_title">Scores</string>
+    <string name="buttton_highscore_solitary">Solitaire</string>
+    <string name="buttton__highscore_multiplayer">Multijoueur</string>
+
+    <string name="main_title">Le Juste Prix</string>
+    <string name="button_scores">Scores</string>
+    <string name="button_info">Information</string>
+    <string name="button_solitary">   Solitaire   </string>
+    <string name="button_multiplayer">Multijoueur</string>
+
+    <string name="congratulation_title">Félicitation</string>
+    <string name="demande">Voulez vous enregistrer votre score ?</string>
+    <string name="button_yes">Oui</string>
+    <string name="button_no">Non</string>
+
+    <string name="enter_name">Entrez votre nom </string>
+    <string name="validate">Valider</string>
+    <string name="choose_category">Choisissez la catégorie</string>
+
+
     <style name="ButtonText">
         <item name="android:layout_width">fill_parent</item>
         <item name="android:layout_height">wrap_content</item>
@@ -15,3 +55,4 @@
         <item name="android:shadowRadius">2</item>
     </style>
 </resources>
+

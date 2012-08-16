@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Find Price</string>
+    <string name="category_title">Categories</string>
+    <string name="choose_category">Choose category</string>
+
+    <string name="difficulty_title">Difficulty</string>
+    <string name="choose_difficulty">Please choose the difficulty level</string>
+    <string name="button_easy">Easy</string>
+    <string name="button_medium">Medium</string>
+    <string name="button_hard">Hard</string>
+
+    <string name="failure_title">Failure</string>
+    <string name="try_again">Would you play again?</string>
+    <string name="button_regame">regame</string>
+    <string name="button_main">Main Menu</string>
+    <string name="guess_title">Find the price</string>
+    <string name="player_one">Player 1</string>
+    <string name="player_two">Player 2</string>
+    <string name="counter">Counter : 0</string>
+    <string name="choose_category">Choose the category</string>
+
+    <string name="highscore_title">Scores</string>
+    <string name="buttton_highscore_solitary">Solitary</string>
+    <string name="buttton__highscore_multiplayer">Multiplayer</string>
+
+    <string name="main_title">Find Price</string>
+    <string name="button_scores">Scores</string>
+    <string name="button_info">Information</string>
+    <string name="button_solitary">   Solitary   </string>
+    <string name="button_multiplayer">Multiplayer</string>
+
+    <string name="congratulation_title">Congratulation</string>
+    <string name="demande">Would you save your score?</string>
+    <string name="button_yes">Yes</string>
+    <string name="button_no">No </string>
+
+    <string name="enter_name">Enter name</string>
+    <string name="validate">Done</string>
+</resources>

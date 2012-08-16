@@ -11,7 +11,7 @@
             android:id="@+id/score"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Score"
+            android:text="@string/highscore_title"
             android:layout_centerHorizontal="true"
             android:textSize="30sp"
             android:textColor="@android:color/black"
@@ -21,14 +21,18 @@
             android:id="@+id/button_highscore_solitaire"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Solitaire"
+            android:text="@string/buttton_highscore_solitary"
+            android:layout_below="@id/score"
+            android:layout_centerHorizontal="true"
         />
 
     <Button
         android:id="@+id/button_highscore_multijoueur"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Multijoueur"
+        android:text="@string/buttton__highscore_multiplayer"
+        android:layout_below="@id/score"
+        android:layout_centerHorizontal="true"
         />
 
     <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"

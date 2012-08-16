@@ -10,7 +10,7 @@
     <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Félicitation"
+            android:text="@string/congratulation_title"
             android:layout_centerHorizontal="true"
             android:textSize="30sp"
             android:textColor="@android:color/black"
@@ -30,7 +30,7 @@
         <TextView
                 android:id="@+id/text_joueur1"
                 android:layout_width="wrap_content" android:layout_height="wrap_content"
-                android:text="Joueur 1"
+                android:text="@string/player_one"
                 android:paddingBottom="10dip"
                 android:layout_centerHorizontal="true"
                 android:layout_alignParentTop="true"
@@ -38,7 +38,7 @@
 
         <EditText
                 android:id="@+id/enter_name"
-                android:hint="Entrez votre nom   "
+                android:hint="@string/enter_name"
                 android:singleLine="true"
                 android:layout_below="@id/text_joueur1"
                 android:inputType="textPersonName"
@@ -51,7 +51,7 @@
         <TextView
                 android:id="@+id/text_joueur2"
                 android:layout_width="wrap_content" android:layout_height="wrap_content"
-                android:text="Joueur 2"
+                android:text="@string/player_two"
                 android:layout_below="@id/enter_name"
                 android:layout_centerHorizontal="true"
                 android:paddingBottom="10dip"
@@ -59,7 +59,7 @@
 
         <EditText
                 android:id="@+id/enter_name2"
-                android:hint="Entrez votre nom   "
+                android:hint="@string/enter_name"
                 android:singleLine="true"
                 android:layout_below="@id/text_joueur2"
                 android:inputType="textPersonName"
@@ -73,7 +73,7 @@
         <Button
                 android:layout_width="wrap_content" android:layout_height="wrap_content"
                 android:id="@+id/button_save_score"
-                android:text="Valider"
+                android:text="@string/validate"
                 android:layout_centerHorizontal="true"
                 android:layout_below="@id/enter_name2"
                 android:background="@drawable/button_blue"
